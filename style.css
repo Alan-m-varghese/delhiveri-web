@@ -114,8 +114,13 @@ footer {
 }
 .about p{
   font-size: 12px;
+  line-height: 2;
 }
 footer p{
 
-  font-size: 5px;
+  font-size: 6px;
+}
+.features p{
+
+  line-height: 2;
 }
