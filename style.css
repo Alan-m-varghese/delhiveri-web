@@ -23,7 +23,7 @@ body {
 }
 
 .hero p {
-  font-size: 10px;
+  font-size: 12px;
   margin-bottom: 20px;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .features h2 {
-  font-size: 32px;
+  font-size: 24px;
   margin-bottom: 40px;
 }
 
@@ -73,7 +73,13 @@ body {
 
 .card h3 {
   margin-bottom: 10px;
+  font-size: 12px;
 }
+.card p{
+
+  font-size: 7px;
+}
+
 
 .about, .download {
   padding: 60px 20px;
