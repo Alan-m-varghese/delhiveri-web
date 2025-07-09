@@ -75,7 +75,19 @@ body {
   
  
 }
+.features, .about{
+  body {
+  margin: 0;
+  padding: 0;
+  background: url('/assets/bgstar.png') no-repeat center top;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #000; /* fallback color */
+  color: white;
+  font-family: Arial, sans-serif;
+}
 
+}
 img{
 
     border-radius: 30%;
