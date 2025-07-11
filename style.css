@@ -1,7 +1,4 @@
-h1, p,  .logo-text {
-  font-family: 'Press Start 2P', cursive;
-  color: #FFFFFF;  /* or any color you prefer */
-}
+
 
 
 body {
@@ -20,6 +17,10 @@ body {
 .hero h1 {
   font-size: 35px;
   margin-bottom: 10px;
+  
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFFFF;  /* or any color you prefer */
+  
 }
 
 .hero p {
