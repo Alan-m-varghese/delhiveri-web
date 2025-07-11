@@ -1,4 +1,4 @@
-h1 .logo-text {
+h1, p,  .logo-text {
   font-family: 'Press Start 2P', cursive;
   color: #FFFFFF;  /* or any color you prefer */
 }
